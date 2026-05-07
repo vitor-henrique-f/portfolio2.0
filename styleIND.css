@@ -53,8 +53,8 @@ a {
 }
 
 a:hover {
-   transform: translateY(-5px);
-   box-shadow: 0 10px 25px rgba(88, 100, 88, 0.733);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(70, 80, 70, 0.733);
 }
 
 @font-face {
@@ -91,4 +91,4 @@ a:hover {
 
 p {
   user-select: none; 
-}
+}    
